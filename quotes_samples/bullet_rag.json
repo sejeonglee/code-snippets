@@ -1,0 +1,63 @@
+{
+    "quotes": [
+        {
+            "title": "[청년발언대] \"생성형 AI에 전문성 더하는 RAG\"",
+            "type": "snippet",
+            "url": "http://www.youthdaily.co.kr/mobile/article.html?no=159166",
+            "text": "2024.07.13. | 이를 보완하기 위한 한 수단으로 RAG(Retrieval-Augmented Generation)를 도입하기도 한다. RAG(Retrieval-Augmented Generation)란 검색 증강 생성이라고도 불리는 기술이다. 이는 정보 검색(Retrieval)과 생성(Generation)을 결합한 AI 모델인데, 두 가지 주요 구성 요소로 이루어져 있다. 첫 번째로는, 정보...",
+            "reference": {
+                "search_query": "Retrieval-Augmented Generation",
+                "collection": "news",
+                "searcher_class": "NaverSearcher",
+                "query_expansion": null,
+                "cachedAt": null
+            },
+            "original_data": null,
+            "url_with_highlight": "http://www.youthdaily.co.kr/mobile/article.html?no=159166#:~:text=2024.07.13.%20%7C%20%EC%9D%B4%EB%A5%BC%20%EB%B3%B4%EC%99%84%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%9C,%EC%9A%94%EC%86%8C%EB%A1%9C%20%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A0%B8%20%EC%9E%88%EB%8B%A4.%20%EC%B2%AB%20%EB%B2%88%EC%A7%B8%EB%A1%9C%EB%8A%94%2C%20%EC%A0%95%EB%B3%B4",
+            "index": 1
+        },
+        {
+            "title": "RAG(Retrieval-Augmented Generation)를 통해 GPT의 문장이 점점 완성되어가요.~ 당근대장의 AI 지식...",
+            "type": "snippet",
+            "url": "https://m.blog.naver.com/carrotcap/223475416836",
+            "text": "2024.06.11. | 문장의 완성도를 높이기 위해 자주 쓰이는 방식인 RAG(재생성 강화 추론, Retrieval-Augmented Generation)에 대해 얘기해 보려 합니다. © lazycreekimages, 출처 Unsplash RAG(재생성 강화 추론, Retrieval-Augmented Generation)는 인공지능에서 정보를 처리하는 한 방법 중에 하나에요. 그럼 RAG를 두 가지 주요",
+            "reference": {
+                "search_query": "Retrieval-Augmented Generation",
+                "collection": "popular",
+                "searcher_class": "NaverSearcher",
+                "query_expansion": null,
+                "cachedAt": null
+            },
+            "original_data": null,
+            "url_with_highlight": "https://m.blog.naver.com/carrotcap/223475416836#:~:text=2024.06.11.%20%7C%20%EB%AC%B8%EC%9E%A5%EC%9D%98%20%EC%99%84%EC%84%B1%EB%8F%84%EB%A5%BC%20%EB%86%92%EC%9D%B4%EA%B8%B0,%ED%95%98%EB%82%98%EC%97%90%EC%9A%94.%20%EA%B7%B8%EB%9F%BC%20RAG%EB%A5%BC%20%EB%91%90%20%EA%B0%80%EC%A7%80%20%EC%A3%BC%EC%9A%94",
+            "index": 2
+        },
+        {
+            "title": "질문 응답 시스템의 혁신, RAG: Retrieval-Augmented Generation",
+            "type": "snippet",
+            "url": "https://blog.naver.com/realmercy_/223476686131",
+            "text": "2024.06.12. | 최근 주목받는 기술 중 하나인 RAG(Retrieval-Augmented Generation)에 대해 알아보겠습니다. 이 포스트에서는 RAG의 개념, 동작 원리, 응용 분야 및 장단점을 다룰 것입니다. 1. RAG란 무엇인가? RAG는 Retrieval-Augmented Generation의 약자로, 검색 기반 생성 모델을 의미합니다. 이는 정보를 생성하기 위해 단순히 사전에 학습된",
+            "reference": {
+                "search_query": "Retrieval-Augmented Generation",
+                "collection": "popular",
+                "searcher_class": "NaverSearcher",
+                "query_expansion": null,
+                "cachedAt": null
+            },
+            "original_data": null,
+            "url_with_highlight": "https://blog.naver.com/realmercy_/223476686131#:~:text=2024.06.12.%20%7C%20%EC%B5%9C%EA%B7%BC%20%EC%A3%BC%EB%AA%A9%EB%B0%9B%EB%8A%94%20%EA%B8%B0%EC%88%A0,%EC%A0%95%EB%B3%B4%EB%A5%BC%20%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%EB%8B%A8%EC%88%9C%ED%9E%88%20%EC%82%AC%EC%A0%84%EC%97%90%20%ED%95%99%EC%8A%B5%EB%90%9C",
+            "index": 3
+        },
+        {
+            "title": "질문 응답 시스템의 혁신, RAG: Retrieval-Augmented Generation : 네이버 블로그 blog.naver.com (최근 변경: 2024.06.12.)",
+            "type": "web_page",
+            "url": "https://blog.naver.com/realmercy_/223476686131",
+            "text": "2024.06.12. | 1. RAG란 무엇인가?\n\nRAG는 Retrieval-Augmented Generation의 약자로, 검색 기반 생성 모델을 의미합니다. 이는 정보를 생성하기 위해 단순히 사전에 학습된 데이터에만 의존하지 않고, 외부의\n대규모 데이터베이스나 문서를 검색하여 필요한 정보를 찾아 결합하는 방식입니다. 이렇게 함으로써 더 정확하고 풍부한 답변을 생성할 수 있습니다.\n\n​\n\n​\n\n2. RAG의 동작 원리\n\nRAG의 동작은 두 가지 주요 단계로 나뉩니다:\n\n1. 검색 단계(Retrieval Stage): 주어진 입력에 대해 관련성이 높은 문서를 외부 데이터베이스나 문서 집합에서 검색합니다. 이 단계에서는 주로 BM25, DPR(Dense\nPassage\nRetrieval) 등의 알고리즘을 사용합니다.\n2. 생성 단계(Generation Stage): 검색된 문서를 기반으로 최종 답변을 생성합니다. 여기서는 주로 GPT-3 같은 대형 생성 모델이 사용됩니다. 검색된 문서의 정보를 이용해 보다\n정확하고 관련성 높은 답변을 만들어냅니다.\n\n[Image ]\n\nRAG 시스템의 동작 과정 (출처 : https://aws.amazon.com/ko/what-is/retrieval-augmented-generation/)\n\n* 입력 단계: 사용자가 질문(Prompt)과 검색어(Query)를 시스템에 입력합니다.\n* 검색 단계: 시스템은 지식 소스(Knowledge Sources)에서 관련 정보를 검색합니다.\n* 컨텍스트 향상: 검색된 정보를 질문과 결합하여 향상된 컨텍스트를 생성합니다.\n* 응답 생성: 향상된 컨텍스트를 바탕으로 대형 언어 모델이 최종 텍스트 응답을 생성합니다.\n\n​\n\n​\n\n3. RAG의 구성 요소\n\n3.1 검색기(Retriever)\n\n검색기는 입력된 질문에 대해 관련 문서를 찾아냅니다. 검색기의 성능은 최종 생성 결과의 품질에 큰 영향을 미칩니다. 검색기는 다음과 같은 방법으로 구현될 수 있습니다:\n\n* 전통적 방법: TF-IDF, BM25와 같은 전통적인 정보 검색 알고리즘.\n* 학습된 방법: Dense Passage Retrieval(DPR)과 같은 딥러닝 기반 검색 모델.\n\n​\n\n3.2 생성기(Generator)\n\n생성기는 검색된 문서를 입력으로 받아 최종 답변을 생성합니다. 이는 주로 Transformer 기반의 언어 모델을 사용하여 구현됩니다.\n\n* Transformer 모델: GPT-3, T5, BERT 등.\n\n​\n\n​\n\n4. RAG의 응용 분야\n\nRAG는 다양한 분야에서 응용될 수 있습니다:\n\n* 질문 답변 시스템(Q&A Systems): 특정 도메인에 대한 질문에 대해 정확하고 상세한 답변 제공.\n* 대화형 AI(Chatbots): 사용자와의 대화에서 보다 자연스럽고 유용한 정보를 제공.\n* 문서 요약(Document Summarization): 대량의 문서에서 핵심 정보를 추출하고 요약.\n\n​\n\n​\n\n5. RAG의 장단점\n\n장점\n\n* 정확성: 외부 데이터베이스에서 최신 정보를 검색하여 정확한 답변 생성.\n* 유연성: 다양한 주제와 도메인에 적용 가능.\n* 확장성: 대규모 데이터베이스와 결합하여 성능 향상.\n\n​\n\n단점\n\n* 복잡성: 검색과 생성을 결합한 구조로 구현이 복잡함.\n* 자원 소모: 대규모 데이터베이스와 생성 모델을 사용하여 자원 소모가 큼.\n* 실시간성: 검색 단계에서 시간이 소요될 수 있어 실시간 응답에 제한이 있을 수 있음.",
+            "reference": null,
+            "original_data": null,
+            "url_with_highlight": "https://blog.naver.com/realmercy_/223476686131#:~:text=2024.06.12.%20%7C%201.%20RAG%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F%0A%0ARAG%EB%8A%94,%EC%8B%A4%EC%8B%9C%EA%B0%84%20%EC%9D%91%EB%8B%B5%EC%97%90%20%EC%A0%9C%ED%95%9C%EC%9D%B4%20%EC%9E%88%EC%9D%84%20%EC%88%98%20%EC%9E%88%EC%9D%8C.",
+            "index": 4
+        }
+    ],
+    "answer": "Retrieval-Augmented Generation(RAG)에 대한 특징을 정리해 드리겠습니다.\n\n# 특징 1: 정보 검색과 생성의 결합\n- RAG는 정보 검색(Retrieval)과 생성(Generation)을 결합한 AI 모델입니다<span class='style'>1</span>.\n- 이는 정보를 생성하기 위해 단순히 사전에 학습된 데이터에만 의존하지 않고, 외부의 대규모 데이터베이스나 문서를 검색하여 필요한 정보를 찾아 결합하는 방식입니다<span class='style'>4</span>.\n\n# 특징 2: 두 가지 주요 단계\n- RAG의 동작은 두 가지 주요 단계로 나뉩니다.\n1. 검색 단계(Retrieval Stage): 주어진 입력에 대해 관련성이 높은 문서를 외부 데이터베이스나 문서 집합에서 검색합니다. 이 단계에서는 주로 BM25, DPR(Dense Passage Retrieval) 등의 알고리즘을 사용합니다.\n2. 생성 단계(Generation Stage): 검색된 문서를 기반으로 최종 답변을 생성합니다. 여기서는 주로 GPT-3 같은 대형 생성 모델이 사용됩니다. 검색된 문서의 정보를 이용해 보다 정확하고 관련성 높은 답변을 만들어냅니다<span class='style'>4</span>.\n\nRAG에 대해 더 궁금한 점이 있으시면 언제든지 물어보세요."
+}
